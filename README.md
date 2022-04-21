@@ -1,4 +1,4 @@
-                                                             # Hi! I'm Lilian Azevedo! 🧙🏼‍♀️ 
+# Hi! I'm Lilian Azevedo! 🧙🏼‍♀️ 
 
 ### 🇧🇷 Brazilian Front-End Developer and an Engineer by training
 - 🌱 I’m currently learning Back-End development
