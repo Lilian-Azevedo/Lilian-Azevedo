@@ -1,6 +1,6 @@
 # Hi! I'm Lilian Azevedo! 🧙🏼‍♀️ 
 
-### 🇧🇷 Brazilian Fron-End Developer and an Engineer by training
+### 🇧🇷 Brazilian Front-End Developer and an Engineer by training
 - 🌱 I’m currently learning Back-End development
 - 🌎 Passionate about learning new languages
 - 📫 Contact me via email(lilian.azevedo0905@gmail.com) or linkedin(https://www.linkedin.com/in/lilian-azevedo/)
