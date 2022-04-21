@@ -19,7 +19,7 @@
   <img align="center" alt="Lilian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lilian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lilian-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
+  <img align="right" alt="Lilian-avatar" height="150" style="border-radius:50px;" src="![download20220404140704](https://user-images.githubusercontent.com/93014202/164514448-1edd66f8-0aae-4704-9e1f-24ce5915db6c.png)">
 </div>
   
   ##
