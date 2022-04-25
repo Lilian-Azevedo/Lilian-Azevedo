@@ -18,7 +18,7 @@
   <img align="center" alt="Lilian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Lilian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lilian-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Lilian-avatar" height="250" width="180" style="border-radius:50px;" border-radius="100%" src="https://github.com/Lilian-Azevedo/Lilian-Azevedo/blob/main/.github/lilianAvatarToon.jpeg">
+  <img align="right" alt="Lilian-avatar" height="260" width="190" src="https://github.com/Lilian-Azevedo/Lilian-Azevedo/blob/main/.github/lilianAvatarToon.jpeg">
 </div>
   
   ##
