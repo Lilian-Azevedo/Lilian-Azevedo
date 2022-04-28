@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=50&duration=4000&color=2114BD&background=D1FF2000&vCenter=true&width=600&height=60&lines=Hi!+I'm+Lily!+%F0%9F%A7%99%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="center">🇧🇷 Brazilian Front-End Developer and an Engineer by training</h3>
+<div>
 - 🌱 I’m currently learning Back-End development
 - 🌎 Passionate about learning new languages
+</div>
 
-<div align="center">
+<div align="center>
   <a href="https://github.com/Lilian-Azevedo">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Lilian-Azevedo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilian-Azevedo&layout=compact&langs_count=7&theme=radical"/>
