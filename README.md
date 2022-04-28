@@ -1,6 +1,4 @@
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&size=50&duration=4000&color=2114BD&background=D1FF2000&vCenter=true&width=600&height=60&lines=Hi!+I'm+Lily!+%F0%9F%A7%99%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F;Welcome+to+my+profile!)](https://git.io/typing-svg)
-</div>
 
 <h3 align="center">🇧🇷 Brazilian Front-End Developer and an Engineer by training</h3>
 - 🌱 I’m currently learning Back-End development
