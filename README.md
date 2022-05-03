@@ -5,7 +5,7 @@
 <p align="center"> 🌱 I’m currently learning Back-End development</p>
 <p align="center"> 🌎 Passionate about learning new languages</p>
 
-<img align="right" alt="Lilian-avatar" height="400em" width="30%" src="https://github.com/Lilian-Azevedo/Lilian-Azevedo/blob/main/.github/lilianAvatarToon.jpeg">
+<img align="right" alt="Lilian-avatar" height="400em" width="34%" src="https://github.com/Lilian-Azevedo/Lilian-Azevedo/blob/main/.github/lilianAvatarToon.jpeg">
 
 <div align="left>
   <a href="https://github.com/Lilian-Azevedo">
