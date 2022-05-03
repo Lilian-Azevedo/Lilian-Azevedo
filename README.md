@@ -5,7 +5,7 @@
 <p align="center"> 🌱 I’m currently learning Back-End development</p>
 <p align="center"> 🌎 Passionate about learning new languages</p>
 
-<img align="right" alt="Lilian-avatar" height="400em" width="35%" src="https://github.com/Lilian-Azevedo/Lilian-Azevedo/blob/main/.github/lilianAvatarToon.jpeg">
+<img align="right" alt="Lilian-avatar" height="400em" width="30%" src="https://github.com/Lilian-Azevedo/Lilian-Azevedo/blob/main/.github/lilianAvatarToon.jpeg">
 
 <div align="left>
   <a href="https://github.com/Lilian-Azevedo">
@@ -13,6 +13,8 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilian-Azevedo&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
+ ##
+ 
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Lilian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lilian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
